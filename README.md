@@ -1,10 +1,8 @@
 # WhatsMyTask
 This is a simple Web-Application for making small notes. It is made whith the help of just HTML, CSS and Javascript. No other framework is used while making this.
 
-![image](https://user-images.githubusercontent.com/61109976/174472649-096c1d1b-d265-4c43-aec8-7d5466365e4e.png)
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/61109976/174472649-096c1d1b-d265-4c43-aec8-7d5466365e4e.png">
+  <img width=100% src="https://user-images.githubusercontent.com/61109976/174472649-096c1d1b-d265-4c43-aec8-7d5466365e4e.png">
 </p>
 
 
