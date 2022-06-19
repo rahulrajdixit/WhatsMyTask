@@ -11,6 +11,8 @@ Just download the zip file, and enjoy the App.
 
 Or else, just click <a href="https://rahulrajdixit.github.io/Webshelf/WhatsMyTask/whatsmytask.html">here</a> for a preview.
 
+Please Note: For editing a task, click on the 'Edit' button to turn-on the 'edit-mode' and then click on the 'task-sentence' to edit it. Once done with editing, click on it again to turn-off the 'edit-mode'.
+
 
 ## **Improvements To Be Made**
 Whenever a user tries to edit a task, there is no indication that the 'edit-mode' for a task is on.
