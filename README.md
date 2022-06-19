@@ -3,6 +3,10 @@ This is a simple Web-Application for making small notes. It is made whith the he
 
 ![image](https://user-images.githubusercontent.com/61109976/174472649-096c1d1b-d265-4c43-aec8-7d5466365e4e.png)
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61109976/174472649-096c1d1b-d265-4c43-aec8-7d5466365e4e.png">
+</p>
+
 
 ## **Usage**
 Just download the zip file, and enjoy the App.
