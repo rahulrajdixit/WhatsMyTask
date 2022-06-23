@@ -7,7 +7,7 @@ This is a simple Web-Application for making small notes. It is made whith the he
 
 
 ## **Usage**
-Just download the zip file, and enjoy the App.
+Just download the zip file and enjoy the App.
 
 Or else, just click <a href="https://rahulrajdixit.github.io/Webshelf/WhatsMyTask/whatsmytask.html">here</a> for a preview.
 
