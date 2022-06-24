@@ -1,5 +1,5 @@
 # WhatsMyTask
-This is a simple Web-Application for making small notes. It is made whith the help of just HTML, CSS and Javascript. No other framework is used while making this.
+This is a simple Web-Application for making small notes. It is made with the help of just HTML, CSS and Javascript. No other framework was used while making this Web-Application.
 
 <p align="center">
   <img width=70% src="https://user-images.githubusercontent.com/61109976/174472649-096c1d1b-d265-4c43-aec8-7d5466365e4e.png">
